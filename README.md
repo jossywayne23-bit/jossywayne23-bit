@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Josiah! </h1>
 
-<!--
-**jossywayne23-bit/jossywayne23-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications </h2>
+
+ - [MTCNA (MikroTik Certified Network Associate)](https://github.com/urlphoto)
+   
+<h2>📺 Popular YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
