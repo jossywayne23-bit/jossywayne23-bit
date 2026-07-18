@@ -113,7 +113,7 @@ Completed items are documented in full in the Completed Projects section above.
 ## 📫 Connect
 
 - Email: josiah.azimi@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/josiah-a-9a97b0346/
 ---
 
 <sub>All projects are built in personal lab / non-production tenants for hands-on skills development. </sub>
