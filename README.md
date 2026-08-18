@@ -60,6 +60,7 @@ Next up: hands-on CyberArk Privilege Cloud deployment, AWS cloud IAM, and IAM au
 
 **[Okta Identity Lifecycle (JML) with BambooHR & SCIM](https://github.com/jossywayne23-bit/okta-jml-lifecycle)**
 Full Joiner-Mover-Leaver pipeline across three systems — BambooHR as the authoritative HR source, Okta as the identity broker with dynamic group rules, and a SCIM-provisioned resource server. All three phases tested end-to-end, including confirming access revocation and login denial after termination.
+Video Reference: https://www.youtube.com/watch?v=7YLI2dUOuR8
 *Skills: Okta · SCIM 2.0 · BambooHR · Dynamic Groups · JML*
 
 **[SAML 2.0 SSO Integration — Entra ID ↔ Okta](https://github.com/jossywayne23-bit/Microsoft-Entra-ID-Okta-SAML-2.0-SSO-Integration)**
