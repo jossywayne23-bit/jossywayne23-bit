@@ -111,9 +111,9 @@ A ground-up osTicket deployment, staged across three phases — directly relevan
 
 ---
 
-## 🎯 Roadmap — Path to IAM / PAM Specialist
+## 🎯 IAM / PAM Specialist
 
-Nine projects, sequenced to build from Entra ID fundamentals up to enterprise PAM and cloud IAM — 6 completed, 3 queued.
+Nine projects, built from Entra ID up to enterprise PAM and cloud IAM — 6 completed, 3 queued.
 
 | # | Focus Area | Status | Stack | What I'll Build | Risk It Addresses |
 |---|---|---|---|---|---|
