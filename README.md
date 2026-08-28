@@ -5,6 +5,7 @@
   IAM professional in progress — building deep, hands-on expertise in Microsoft Entra ID and CyberArk Privileged Access Management (PAM) through structured, evidence-based lab work. Every project below is built, broken, and documented from scratch. Background in networking brings systems-level understanding of traffic flow and segmentation to identity and access architecture. Currently completing CyberArk Defender certification, targeting IAM Engineer roles specializing in Privileged Access Management and Zero Trust identity governance.
 </p>
 <br>
+
 ---
  
 ## Tech Stack
@@ -21,6 +22,7 @@
   <img src="https://img.shields.io/badge/Zero_Trust-333333?style=for-the-badge&logoColor=white" />
 </p>
 <p align="center"><b>Currently building:</b> Microsoft Graph API · PowerShell Automation</p>
+
 ---
  
 ## Certifications
@@ -33,6 +35,7 @@
   <img src="https://img.shields.io/badge/CyberArk_PAM_Defender-In_Progress-EF3B2D?style=flat-square&logoColor=white" />
 </p>
 <p align="center"><sub>Foundational coursework: CyberArk University — Introduction to PAM · Full CyberArk PAM Defender course (Udemy)</sub></p>
+
 ---
  
 ## Portfolio Projects
@@ -87,6 +90,7 @@ Identity log analysis lab using sign-in and audit log data to identify abnormal 
 ---
  
 <p align="center"><sub>🔧 <b>Currently building:</b> PowerShell + Microsoft Graph API automation lab — user lifecycle scripting, access reporting, and Break Glass account monitoring. Repo coming soon.</sub></p>
+
 ---
  
 ## Documentation Standard
@@ -102,6 +106,7 @@ Every project follows a consistent four-file structure: `README.md` (business pr
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ---
  
 <p align="center">
