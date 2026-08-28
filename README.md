@@ -2,7 +2,7 @@
 <br>
  
 <p align="center">
-  IAM professional in progress — building deep, hands-on expertise in Microsoft Entra ID and CyberArk Privileged Access Management (PAM) through structured, evidence-based lab work. Every project below is built, broken, and documented from scratch. Background in networking brings systems-level understanding of traffic flow and segmentation to identity and access architecture. Currently completing CyberArk Defender certification, targeting IAM Engineer roles specializing in Privileged Access Management and Zero Trust identity governance.
+  The projects in this portfolio are intentionally designed to simulate the real workflows of an Identity & Access Management (IAM) professional working in enterprise environments. Every project below is built, broken, and documented from scratch. Background in networking brings systems-level understanding of traffic flow and segmentation to identity and access architecture. Currently completing CyberArk Defender certification, targeting IAM Engineer roles specializing in Privileged Access Management and Zero Trust identity governance.
 </p>
 <br>
 
