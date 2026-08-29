@@ -68,7 +68,7 @@ Role-based access control model built across Microsoft Entra ID and AWS IAM, map
  
 ---
  
-### [entra-id-conditional-access-mfa](https://github.com/jossywayne23-bit/Conditional-Access-Configuration---Entra-ID)
+### [zero-trust-conditional-access](https://github.com/jossywayne23-bit/Conditional-Access-Configuration---Entra-ID)
 Conditional Access and MFA enforcement lab in Microsoft Entra ID, including phishing-resistant authentication policy design and blocked-login validation testing against a deliberately non-compliant account.
  
 **Key areas covered:** Conditional Access policy design, MFA enforcement, risk-based access, blocked-flow validation testing.
