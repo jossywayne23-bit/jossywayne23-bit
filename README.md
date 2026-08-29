@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/CyberArk_PAM-EF3B2D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/osTicket_(ITSM)-2A3B4C?style=for-the-badge&logoColor=white" />
@@ -51,6 +52,13 @@ Architecture reference documenting the CyberArk Vault's role in a PAM deployment
 Enterprise PAM concepts demonstrated using HashiCorp Vault, with explicit architectural parallel mapping to CyberArk Privilege Cloud — credential vaulting, policy-based access control, dynamic secret rotation, and audit logging.
  
 **Key areas covered:** Credential vaulting, dynamic secrets with TTL rotation, policy-based access control, audit logging, CyberArk architectural parallels.
+
+---
+ 
+### [aws-iam-entra-id-saml](https://github.com/jossywayne23-bit/aws-iam-entra-id-saml)
+SAML 2.0 federation and SCIM 2.0 user provisioning lab connecting Microsoft Entra ID with AWS IAM Identity Center—enforcing role-based session mapping and least-privilege access to eliminate static IAM credentials.
+ 
+**Key areas covered:** SAML 2.0 SSO, SCIM automated provisioning, Entra ID enterprise app configuration, AWS IAM role mapping, dynamic credential management.
  
 ---
  
