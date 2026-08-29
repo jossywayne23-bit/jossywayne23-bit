@@ -125,6 +125,7 @@ Every project follows a consistent four-file structure: `README.md` (business pr
   <img src="https://img.shields.io/badge/-CyberArk-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-Okta-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-JML_Automation-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS_IAM_Identity_Center-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-HashiCorp_Vault-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-Conditional_Access-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-SAML_%2F_SSO-333?style=flat-square" />
