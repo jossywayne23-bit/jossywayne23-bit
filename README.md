@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/CyberArk_PAM_Defender-In_Progress-EF3B2D?style=flat-square&logoColor=white" />
 </p>
 <p align="center"><sub>Foundational coursework: CyberArk University — Introduction to PAM · Full CyberArk PAM Defender course (Udemy)</sub></p>
-
+</div>
 ---
  
 ## Portfolio Projects
