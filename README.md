@@ -21,6 +21,8 @@
  
 <p align="center">
   The projects in this portfolio are intentionally designed to simulate the real workflows of an Identity & Access Management (IAM) professional working in enterprise environments. Every project below is built, broken, and documented from scratch. Background in networking brings systems-level understanding of traffic flow and segmentation to identity and access architecture. Currently completing CyberArk Defender certification, targeting IAM Engineer roles specializing in Privileged Access Management and Zero Trust identity governance.
+
+📫 How to reach me **josiah.azimi@gmail.com**
 </p>
 <br>
 
