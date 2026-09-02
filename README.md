@@ -1,4 +1,22 @@
-<h1 align="center">Josiah Azimi</h1>
+<div align="center">
+
+  <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=75&speed=150&color=FF0000&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B;I'm+Josiah+Azimi;Identity+%26+Systems+Engineer" alt="Typing Greeting" />
+
+
+
+
+
+  <h3>Wayne | Secure Enterprises & Automation</h3>
+
+  <p align="center">
+    <a href="https://linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=jossywayne23-bit&label=Visitors&color=blue&style=for-the-badge" alt="Visitors" />
+  
+  </p>
 <br>
  
 <p align="center">
